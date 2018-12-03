@@ -1,0 +1,18 @@
+C:\Users\Kevin\source\repos\Joel\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Joel\DataModel\bin\Debug\DataModel.dll
+C:\Users\Kevin\source\repos\Joel\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Kevin\source\repos\Joel\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\source\repos\Joel\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\source\repos\Joel\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Joel\DataModel\obj\Debug\DataModel.dll
+C:\Users\Kevin\source\repos\Joel\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Kevin\source\repos\Joel\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\source\repos\Joel\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\source\repos\Joel\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\bin\Debug\DataModel.dll
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\obj\Debug\DataModel.dll
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\DataModel\obj\Debug\DataModel.pdb

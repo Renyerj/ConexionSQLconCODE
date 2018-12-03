@@ -1,0 +1,24 @@
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\BDGenerator.exe.config
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\BDGenerator.exe
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\BDGenerator.pdb
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\DataModel.dll
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\DataModel.pdb
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\source\repos\Joel\BDGenerator\obj\Debug\BDGenerator.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Joel\BDGenerator\obj\Debug\BDGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Joel\BDGenerator\obj\Debug\BDGenerator.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Joel\BDGenerator\obj\Debug\BDGenerator.exe
+C:\Users\Kevin\source\repos\Joel\BDGenerator\obj\Debug\BDGenerator.pdb
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\source\repos\Joel\BDGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\BDGenerator.exe.config
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\obj\Debug\BDGenerator.exe
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\obj\Debug\BDGenerator.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\BDGenerator.exe
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\BDGenerator.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\DataModel.dll
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\DataModel.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\BDGenerator\obj\Debug\BDGenerator.csprojResolveAssemblyReference.cache
