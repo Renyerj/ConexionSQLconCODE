@@ -1,0 +1,59 @@
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\Joel.exe.config
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\Joel.exe
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\Joel.pdb
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.exe
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.pdb
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.FormCliente.resources
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.FormMenu.resources
+C:\Users\Kevin\source\repos\Joel\Joel\obj\Debug\Joel.FormCompras.resources
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\CNegocio.dll
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\DataModel.dll
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\CNegocio.pdb
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\DataModel.pdb
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\source\repos\Joel\Joel\bin\Debug\EntityFramework.SqlServer.xml
+H:\Joel\Joel\bin\Debug\Joel.exe.config
+H:\Joel\Joel\obj\Debug\Joel.exe
+H:\Joel\Joel\obj\Debug\Joel.pdb
+H:\Joel\Joel\bin\Debug\Joel.exe
+H:\Joel\Joel\bin\Debug\Joel.pdb
+H:\Joel\Joel\bin\Debug\CNegocio.dll
+H:\Joel\Joel\bin\Debug\DataModel.dll
+H:\Joel\Joel\bin\Debug\CNegocio.pdb
+H:\Joel\Joel\bin\Debug\DataModel.pdb
+H:\Joel\Joel\bin\Debug\EntityFramework.xml
+H:\Joel\Joel\bin\Debug\EntityFramework.SqlServer.xml
+H:\Joel\Joel\obj\Debug\Joel.csprojResolveAssemblyReference.cache
+H:\Joel\Joel\obj\Debug\Joel.FormCliente.resources
+H:\Joel\Joel\obj\Debug\Joel.FormCompras.resources
+H:\Joel\Joel\obj\Debug\Joel.FormMenu.resources
+H:\Joel\Joel\obj\Debug\Joel.Properties.Resources.resources
+H:\Joel\Joel\obj\Debug\Joel.csproj.GenerateResource.Cache
+H:\Conexion sql server-CodelFirst\Joel\bin\Debug\Joel.exe.config
+H:\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.exe
+H:\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\Joel.exe.config
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.exe
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\Joel.exe
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\Joel.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\CNegocio.dll
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\DataModel.dll
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\CNegocio.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\DataModel.pdb
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.FormCliente.resources
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.FormCompras.resources
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.FormMenu.resources
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.Properties.Resources.resources
+C:\Users\Sebastian Mejia\Desktop\Conexion sql server-CodelFirst\Joel\obj\Debug\Joel.csproj.GenerateResource.Cache
